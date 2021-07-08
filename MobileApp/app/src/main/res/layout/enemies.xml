@@ -1,0 +1,114 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:orientation="vertical"
+    android:weightSum="1"
+    android:background="@color/red">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="left">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableLeft="@drawable/logoemcima"
+            android:drawableStart="@drawable/logoemcima"
+            android:text="Elemental Quest the APP"
+            android:textAlignment="inherit"
+            android:textColor="@color/black" />
+    </LinearLayout>
+
+
+    <ImageView
+        android:id="@+id/imageViewscrollen"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:src="@drawable/scrollenemy"
+        android:layout_below="@+id/butto"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/butto"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+
+        <ImageButton
+            android:id="@+id/minoOMG"
+            android:layout_width="110dp"
+            android:layout_height="100dp"
+            android:background="@drawable/centauro1" />
+        <ImageButton
+            android:id="@+id/wolfOMG"
+            android:layout_width="110dp"
+            android:layout_height="100dp"
+            android:background="@drawable/bea"/>
+
+        <ImageButton
+            android:id="@+id/fenixOMG"
+            android:layout_width="110dp"
+            android:layout_height="100dp"
+            android:background="@drawable/fenix" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+
+        <ImageButton
+            android:layout_width="110dp"
+            android:layout_height="100dp"
+            android:background="@drawable/spider1" />
+        <ImageButton
+            android:layout_width="110dp"
+            android:layout_height="100dp"
+            android:background="@drawable/apptree"/>
+        <ImageButton
+            android:layout_width="110dp"
+            android:layout_height="100dp"
+            android:background="@drawable/dragonapp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+
+        <ImageButton
+            android:layout_width="110dp"
+            android:layout_height="100dp"
+            android:background="@drawable/lizardapp" />
+        <ImageButton
+            android:layout_width="110dp"
+            android:layout_height="100dp"
+            android:background="@drawable/fireapp"/>
+        <ImageButton
+            android:layout_width="110dp"
+            android:layout_height="100dp"
+            android:background="@drawable/skele" />
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

@@ -1,3 +1,0 @@
-This application is still not implemented, it still needs to be updated on the html javascript and css aswell as the api functions/connection and be able to use the database.
-When functional the api will run with the command python3 server.py, right now as mentioned before its not working and it will get traceback errors that will be resolved upon fixing the issues above.
-The microservices will be added to work with the api.

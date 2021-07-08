@@ -1,0 +1,19 @@
+<android.support.v7.widget.CardView android:layout_gravity="center"
+    android:layout_width="fill_parent"
+    android:layout_height="200dp"
+    app:cardBackgroundColor="#FFFF99"
+    app:cardElevation="10dp"
+    app:cardCornerRadius="5dp"
+    app:cardUseCompatPadding="true"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:id="@+id/olastext"
+        android:gravity="center"
+        android:text="ANOTHER HELLO WORLD APP"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+</android.support.v7.widget.CardView>

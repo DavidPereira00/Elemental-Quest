@@ -1,0 +1,115 @@
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:orientation="vertical"
+    android:weightSum="1"
+    android:background="@color/brown">
+
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="left">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:drawableLeft="@drawable/logoemcima"
+        android:drawableStart="@drawable/logoemcima"
+        android:text="Elemental Quest the APP"
+        android:textAlignment="inherit"
+        android:textColor="@color/black" />
+</LinearLayout>
+
+    <ImageView
+
+        android:id="@+id/imagescrollitem"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:src="@drawable/scrollitem"
+        android:layout_below="@+id/butto"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:src="@drawable/searchbarrr"
+        android:layout_below="@+id/butto"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+
+        <ImageButton
+            android:id="@+id/fenixOMG"
+            android:layout_width="110dp"
+            android:layout_height="100dp"
+            android:background="@drawable/weekshirt" />
+        <ImageButton
+            android:id="@+id/wolfOMG"
+            android:layout_width="110dp"
+            android:layout_height="100dp"
+            android:background="@drawable/neck"/>
+        <ImageButton
+            android:layout_width="110dp"
+            android:layout_height="100dp"
+            android:background="@drawable/wizardrobe" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+
+        <ImageButton
+            android:layout_width="110dp"
+            android:layout_height="100dp"
+            android:background="@drawable/metalsword" />
+        <ImageButton
+            android:layout_width="110dp"
+            android:layout_height="100dp"
+            android:background="@drawable/metal"/>
+        <ImageButton
+            android:layout_width="110dp"
+            android:layout_height="100dp"
+            android:background="@drawable/staff" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+
+        <ImageButton
+            android:layout_width="110dp"
+            android:layout_height="100dp"
+            android:background="@drawable/hat" />
+        <ImageButton
+            android:layout_width="110dp"
+            android:layout_height="100dp"
+            android:background="@drawable/lighthelm"/>
+        <ImageButton
+            android:layout_width="110dp"
+            android:layout_height="100dp"
+            android:background="@drawable/scarf" />
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

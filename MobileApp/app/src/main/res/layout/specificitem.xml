@@ -1,0 +1,124 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:orientation="vertical"
+    android:weightSum="1"
+    android:background="@color/green">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:id="@+id/butto"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_alignBottom="@+id/imageView3"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textAlignment="center"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="24dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            android:background="@drawable/snow"
+            android:text="Vest"
+            android:textColor="@android:color/black"
+            android:textSize="40dp"
+            android:elevation="10dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        android:layout_weight="1">
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/weekshirt"
+            android:elevation="10dp"
+            android:background="@drawable/snow"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/butto"
+            android:layout_toEndOf="@+id/butto" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/butto"
+            android:id="@+id/texts"
+            android:layout_centerHorizontal="true" />
+
+        <ImageButton
+            android:id="@+id/imageView4"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/locked"
+            android:layout_alignBottom="@+id/button2"
+            android:layout_toRightOf="@+id/texts"
+            android:layout_toEndOf="@+id/texts" />
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/button2"
+            android:id="@+id/textg"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:id="@+id/textenm1"
+            android:layout_width="fill_parent"
+            android:layout_marginBottom="17dp"
+            android:background="@drawable/snow"
+            android:layout_height="50dp"
+            android:layout_alignEnd="@+id/imageView4"
+            android:layout_alignRight="@+id/imageView4"
+            android:layout_below="@+id/textg"
+            android:textSize="25dp"
+            android:gravity="center_horizontal"
+            android:text="Phoenix  --------- 15%"
+            android:textColor="@android:color/black" />
+
+        <TextView
+            android:id="@+id/textenm2"
+            android:layout_width="fill_parent"
+            android:background="@drawable/snow"
+            android:layout_marginBottom="17dp"
+            android:layout_height="50dp"
+            android:textSize="25dp"
+            android:gravity="center_horizontal"
+            android:layout_alignLeft="@+id/textenm1"
+            android:layout_alignStart="@+id/textenm1"
+            android:layout_below="@+id/textenm1"
+            android:text="Giant Ogre --------- 7%"
+            android:textColor="@android:color/black" />
+
+        <TextView
+            android:id="@+id/textenm3"
+            android:layout_width="fill_parent"
+            android:textSize="25dp"
+            android:layout_height="50dp"
+            android:background="@drawable/snow"
+            android:gravity="center_horizontal"
+            android:layout_alignLeft="@+id/textenm2"
+            android:layout_marginBottom="17dp"
+            android:layout_alignStart="@+id/textenm2"
+            android:layout_below="@+id/textenm2"
+            android:text="Forest Spider --------- 3%"
+            android:textColor="@android:color/black" />
+    </LinearLayout>
+
+
+</LinearLayout>

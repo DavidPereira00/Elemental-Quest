@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1d13b287b9f9fcc4cb99e025d6f818b6
+timeCreated: 1511311945
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TheQM: {instanceID: 0}
+  - TheDM: {instanceID: 0}
+  - playerObject: {fileID: 1899690926851868, guid: c2469cc4743dfc84197257b320e5d067,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

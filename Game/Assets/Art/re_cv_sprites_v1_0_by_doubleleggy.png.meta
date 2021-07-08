@@ -1,0 +1,2202 @@
+fileFormatVersion: 2
+guid: f17e059d531c519478bf04684961bca3
+timeCreated: 1513463964
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: re_cv_sprites_v1_0_by_doubleleggy_0
+    21300002: re_cv_sprites_v1_0_by_doubleleggy_1
+    21300004: re_cv_sprites_v1_0_by_doubleleggy_2
+    21300006: re_cv_sprites_v1_0_by_doubleleggy_3
+    21300008: re_cv_sprites_v1_0_by_doubleleggy_4
+    21300010: re_cv_sprites_v1_0_by_doubleleggy_5
+    21300012: re_cv_sprites_v1_0_by_doubleleggy_6
+    21300014: re_cv_sprites_v1_0_by_doubleleggy_7
+    21300016: re_cv_sprites_v1_0_by_doubleleggy_8
+    21300018: re_cv_sprites_v1_0_by_doubleleggy_9
+    21300020: re_cv_sprites_v1_0_by_doubleleggy_10
+    21300022: re_cv_sprites_v1_0_by_doubleleggy_11
+    21300024: re_cv_sprites_v1_0_by_doubleleggy_12
+    21300026: re_cv_sprites_v1_0_by_doubleleggy_13
+    21300028: re_cv_sprites_v1_0_by_doubleleggy_14
+    21300030: re_cv_sprites_v1_0_by_doubleleggy_15
+    21300032: re_cv_sprites_v1_0_by_doubleleggy_16
+    21300034: re_cv_sprites_v1_0_by_doubleleggy_17
+    21300036: re_cv_sprites_v1_0_by_doubleleggy_18
+    21300038: re_cv_sprites_v1_0_by_doubleleggy_19
+    21300040: re_cv_sprites_v1_0_by_doubleleggy_20
+    21300042: re_cv_sprites_v1_0_by_doubleleggy_21
+    21300044: re_cv_sprites_v1_0_by_doubleleggy_22
+    21300046: re_cv_sprites_v1_0_by_doubleleggy_23
+    21300048: re_cv_sprites_v1_0_by_doubleleggy_24
+    21300050: re_cv_sprites_v1_0_by_doubleleggy_25
+    21300052: re_cv_sprites_v1_0_by_doubleleggy_26
+    21300054: re_cv_sprites_v1_0_by_doubleleggy_27
+    21300056: re_cv_sprites_v1_0_by_doubleleggy_28
+    21300058: re_cv_sprites_v1_0_by_doubleleggy_29
+    21300060: re_cv_sprites_v1_0_by_doubleleggy_30
+    21300062: re_cv_sprites_v1_0_by_doubleleggy_31
+    21300064: re_cv_sprites_v1_0_by_doubleleggy_32
+    21300066: re_cv_sprites_v1_0_by_doubleleggy_33
+    21300068: re_cv_sprites_v1_0_by_doubleleggy_34
+    21300070: re_cv_sprites_v1_0_by_doubleleggy_35
+    21300072: re_cv_sprites_v1_0_by_doubleleggy_36
+    21300074: re_cv_sprites_v1_0_by_doubleleggy_37
+    21300076: re_cv_sprites_v1_0_by_doubleleggy_38
+    21300078: re_cv_sprites_v1_0_by_doubleleggy_39
+    21300080: re_cv_sprites_v1_0_by_doubleleggy_40
+    21300082: re_cv_sprites_v1_0_by_doubleleggy_41
+    21300084: re_cv_sprites_v1_0_by_doubleleggy_42
+    21300086: re_cv_sprites_v1_0_by_doubleleggy_43
+    21300088: re_cv_sprites_v1_0_by_doubleleggy_44
+    21300090: re_cv_sprites_v1_0_by_doubleleggy_45
+    21300092: re_cv_sprites_v1_0_by_doubleleggy_46
+    21300094: re_cv_sprites_v1_0_by_doubleleggy_47
+    21300096: re_cv_sprites_v1_0_by_doubleleggy_48
+    21300098: re_cv_sprites_v1_0_by_doubleleggy_49
+    21300100: re_cv_sprites_v1_0_by_doubleleggy_50
+    21300102: re_cv_sprites_v1_0_by_doubleleggy_51
+    21300104: re_cv_sprites_v1_0_by_doubleleggy_52
+    21300106: re_cv_sprites_v1_0_by_doubleleggy_53
+    21300108: re_cv_sprites_v1_0_by_doubleleggy_54
+    21300110: re_cv_sprites_v1_0_by_doubleleggy_55
+    21300112: re_cv_sprites_v1_0_by_doubleleggy_56
+    21300114: re_cv_sprites_v1_0_by_doubleleggy_57
+    21300116: re_cv_sprites_v1_0_by_doubleleggy_58
+    21300118: re_cv_sprites_v1_0_by_doubleleggy_59
+    21300120: re_cv_sprites_v1_0_by_doubleleggy_60
+    21300122: re_cv_sprites_v1_0_by_doubleleggy_61
+    21300124: re_cv_sprites_v1_0_by_doubleleggy_62
+    21300126: re_cv_sprites_v1_0_by_doubleleggy_63
+    21300128: re_cv_sprites_v1_0_by_doubleleggy_64
+    21300130: re_cv_sprites_v1_0_by_doubleleggy_65
+    21300132: re_cv_sprites_v1_0_by_doubleleggy_66
+    21300134: re_cv_sprites_v1_0_by_doubleleggy_67
+    21300136: re_cv_sprites_v1_0_by_doubleleggy_68
+    21300138: re_cv_sprites_v1_0_by_doubleleggy_69
+    21300140: re_cv_sprites_v1_0_by_doubleleggy_70
+    21300142: re_cv_sprites_v1_0_by_doubleleggy_71
+    21300144: re_cv_sprites_v1_0_by_doubleleggy_72
+    21300146: re_cv_sprites_v1_0_by_doubleleggy_73
+    21300148: re_cv_sprites_v1_0_by_doubleleggy_74
+    21300150: re_cv_sprites_v1_0_by_doubleleggy_75
+    21300152: re_cv_sprites_v1_0_by_doubleleggy_76
+    21300154: re_cv_sprites_v1_0_by_doubleleggy_77
+    21300156: re_cv_sprites_v1_0_by_doubleleggy_78
+    21300158: re_cv_sprites_v1_0_by_doubleleggy_79
+    21300160: re_cv_sprites_v1_0_by_doubleleggy_80
+    21300162: re_cv_sprites_v1_0_by_doubleleggy_81
+    21300164: re_cv_sprites_v1_0_by_doubleleggy_82
+    21300166: re_cv_sprites_v1_0_by_doubleleggy_83
+    21300168: re_cv_sprites_v1_0_by_doubleleggy_84
+    21300170: re_cv_sprites_v1_0_by_doubleleggy_85
+    21300172: re_cv_sprites_v1_0_by_doubleleggy_86
+    21300174: re_cv_sprites_v1_0_by_doubleleggy_87
+    21300176: re_cv_sprites_v1_0_by_doubleleggy_88
+    21300178: re_cv_sprites_v1_0_by_doubleleggy_89
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 224
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 29
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 224
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 224
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 29
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 224
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 224
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 27
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 224
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 224
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 127
+        width: 27
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 224
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 192
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 192
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 192
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 192
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 192
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 192
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 192
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_19
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 192
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 160
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 160
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_22
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 160
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 160
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_24
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 160
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_25
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 160
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_26
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 160
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_27
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 160
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 128
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_29
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 128
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_30
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 128
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_31
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 128
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_32
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 128
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_33
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 128
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_34
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 128
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_35
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 128
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_37
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 96
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_38
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 96
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_39
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 96
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_40
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 96
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_41
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 96
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_42
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 104
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_43
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 104
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 64
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_45
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 64
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 64
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_47
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 64
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_48
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 64
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_49
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 64
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_50
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 87
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_51
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 83
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_52
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 87
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_53
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 87
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_54
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 87
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_55
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 87
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_56
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 70
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_57
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 66
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_59
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 32
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_60
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 32
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_61
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 32
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_62
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 32
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_63
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 32
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_64
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 51
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_65
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 51
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_66
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 51
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_67
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 51
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_68
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 51
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_69
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 51
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_70
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 51
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_71
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 47
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_72
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 47
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_73
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 47
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_74
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 32
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_75
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 32
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_76
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 32
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_77
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_78
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_79
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_80
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_81
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_82
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_83
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 4
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_84
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 4
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_85
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_86
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_87
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 4
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_88
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 4
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re_cv_sprites_v1_0_by_doubleleggy_89
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 4
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -122, y: 128}
+      - {x: -129, y: 115}
+      - {x: -125, y: 77}
+      - {x: -129, y: 60}
+      - {x: -129, y: 45}
+      - {x: -130, y: 55}
+      - {x: -128, y: 93}
+      - {x: -132, y: 125}
+      - {x: -136, y: 128}
+      - {x: -154, y: 128}
+      - {x: -158, y: 123}
+      - {x: -160, y: 101}
+      - {x: -158, y: 78}
+      - {x: -161, y: 57}
+      - {x: -160, y: 47}
+      - {x: -160, y: 4}
+      - {x: -163, y: 60}
+      - {x: -160, y: 86}
+      - {x: -163, y: 99}
+      - {x: -160, y: 109}
+      - {x: -165, y: 128}
+      - {x: -186, y: 128}
+      - {x: -192, y: 117}
+      - {x: -192, y: -128}
+      - {x: -96, y: -128}
+      - {x: -96, y: 128}
+    - - {x: -96, y: 128}
+      - {x: -96, y: -128}
+      - {x: -63, y: -128}
+      - {x: -63, y: 126}
+      - {x: -69, y: 128}
+    - - {x: -64, y: 128}
+      - {x: -64, y: -94}
+      - {x: -61, y: -128}
+      - {x: -31, y: -128}
+      - {x: -31, y: 128}
+    - - {x: -32, y: 128}
+      - {x: -32, y: 12}
+      - {x: -29, y: -122}
+      - {x: -23, y: -128}
+      - {x: -8, y: -128}
+      - {x: 1, y: -125}
+      - {x: 1, y: 107}
+      - {x: -2, y: 128}
+    - - {x: 23, y: 1}
+      - {x: 23, y: 0}
+      - {x: 25, y: 1}
+      - {x: 30, y: 4}
+      - {x: 30, y: 128}
+      - {x: 3, y: 128}
+      - {x: 2, y: 126}
+      - {x: 2, y: -125}
+      - {x: 3, y: -128}
+      - {x: 30, y: -128}
+      - {x: 30, y: -2}
+      - {x: 27, y: -1}
+    - - {x: 33, y: 128}
+      - {x: 33, y: -128}
+      - {x: 61, y: -128}
+      - {x: 64, y: -120}
+      - {x: 64, y: 128}
+    - - {x: 67, y: 128}
+      - {x: 67, y: -127}
+      - {x: 69, y: -128}
+      - {x: 91, y: -128}
+      - {x: 95, y: -126}
+      - {x: 95, y: 128}
+    - - {x: 107, y: -116}
+      - {x: 103, y: -119}
+      - {x: 103, y: -128}
+      - {x: 179, y: -128}
+      - {x: 184, y: -126}
+      - {x: 184, y: -116}
+    - - {x: 132, y: -98}
+      - {x: 146, y: -98}
+      - {x: 146, y: -91}
+      - {x: 138, y: -83}
+      - {x: 127, y: -83}
+      - {x: 122, y: -86}
+      - {x: 122, y: -97}
+      - {x: 126, y: -98}
+      - {x: 129, y: -98}
+      - {x: 131, y: -95}
+      - {x: 131, y: -93}
+      - {x: 131, y: -96}
+    - - {x: 148, y: -83}
+      - {x: 146, y: -86}
+      - {x: 146, y: -97}
+      - {x: 149, y: -98}
+      - {x: 156, y: -98}
+      - {x: 157, y: -95}
+      - {x: 157, y: -86}
+      - {x: 154, y: -83}
+    - - {x: 100, y: -65}
+      - {x: 98, y: -70}
+      - {x: 98, y: -81}
+      - {x: 136, y: -83}
+      - {x: 181, y: -83}
+      - {x: 185, y: -76}
+      - {x: 185, y: -68}
+      - {x: 168, y: -65}
+    - - {x: 130, y: -46}
+      - {x: 130, y: -60}
+      - {x: 135, y: -64}
+      - {x: 146, y: -64}
+      - {x: 152, y: -60}
+      - {x: 152, y: -49}
+      - {x: 141, y: -46}
+    - - {x: 113, y: -28}
+      - {x: 113, y: -43}
+      - {x: 115, y: -44}
+      - {x: 125, y: -47}
+      - {x: 140, y: -47}
+      - {x: 167, y: -45}
+      - {x: 167, y: -28}
+    - - {x: 116, y: -11}
+      - {x: 116, y: -26}
+      - {x: 160, y: -26}
+      - {x: 164, y: -21}
+      - {x: 164, y: -11}
+    - - {x: 129, y: 128}
+      - {x: 129, y: -2}
+      - {x: 133, y: -3}
+      - {x: 160, y: -3}
+      - {x: 160, y: 128}
+    - - {x: 101, y: 128}
+      - {x: 96, y: 126}
+      - {x: 96, y: -1}
+      - {x: 98, y: -2}
+      - {x: 129, y: -2}
+      - {x: 129, y: 128}
+    - - {x: 160, y: 128}
+      - {x: 160, y: 6}
+      - {x: 165, y: -2}
+      - {x: 189, y: -2}
+      - {x: 191, y: 1}
+      - {x: 191, y: 128}
+    physicsShape:
+    - - {x: -155, y: -128}
+      - {x: -136, y: -128}
+      - {x: -130, y: -123}
+      - {x: -130, y: -120}
+      - {x: -129, y: -112}
+      - {x: -126, y: -123}
+      - {x: -119, y: -128}
+      - {x: -105, y: -128}
+      - {x: -98, y: -122}
+      - {x: -96, y: -114}
+      - {x: -96, y: -106}
+      - {x: -102, y: -96}
+      - {x: -102, y: -82}
+      - {x: -98, y: -73}
+      - {x: -100, y: -67}
+      - {x: -101, y: -55}
+      - {x: -98, y: -45}
+      - {x: -98, y: -44}
+      - {x: -99, y: -40}
+      - {x: -100, y: -37}
+      - {x: -96, y: -20}
+      - {x: -96, y: -12}
+      - {x: -98, y: -6}
+      - {x: -106, y: 0}
+      - {x: -98, y: 5}
+      - {x: -100, y: 24}
+      - {x: -99, y: 55}
+      - {x: -100, y: 59}
+      - {x: -103, y: 68}
+      - {x: -98, y: 81}
+      - {x: -98, y: 91}
+      - {x: -104, y: 97}
+      - {x: -97, y: 101}
+      - {x: -98, y: 104}
+      - {x: -100, y: 124}
+      - {x: -105, y: 128}
+      - {x: -121, y: 128}
+      - {x: -129, y: 114}
+      - {x: -125, y: 98}
+      - {x: -127, y: 92}
+      - {x: -125, y: 77}
+      - {x: -122, y: 63}
+      - {x: -129, y: 60}
+      - {x: -129, y: 45}
+      - {x: -123, y: 36}
+      - {x: -127, y: 24}
+      - {x: -128, y: 2}
+      - {x: -121, y: 0}
+      - {x: -128, y: -9}
+      - {x: -132, y: 2}
+      - {x: -129, y: 9}
+      - {x: -132, y: 29}
+      - {x: -136, y: 36}
+      - {x: -130, y: 55}
+      - {x: -134, y: 66}
+      - {x: -130, y: 79}
+      - {x: -130, y: 92}
+      - {x: -129, y: 105}
+      - {x: -132, y: 125}
+      - {x: -136, y: 128}
+      - {x: -154, y: 128}
+      - {x: -158, y: 123}
+      - {x: -157, y: 110}
+      - {x: -160, y: 101}
+      - {x: -159, y: 93}
+      - {x: -157, y: 78}
+      - {x: -153, y: 69}
+      - {x: -161, y: 57}
+      - {x: -160, y: 47}
+      - {x: -152, y: 33}
+      - {x: -156, y: 31}
+      - {x: -159, y: 14}
+      - {x: -159, y: 4}
+      - {x: -153, y: 0}
+      - {x: -159, y: -6}
+      - {x: -169, y: 0}
+      - {x: -163, y: 3}
+      - {x: -163, y: 25}
+      - {x: -168, y: 33}
+      - {x: -163, y: 60}
+      - {x: -167, y: 72}
+      - {x: -161, y: 78}
+      - {x: -160, y: 86}
+      - {x: -163, y: 99}
+      - {x: -160, y: 109}
+      - {x: -165, y: 128}
+      - {x: -184, y: 128}
+      - {x: -190, y: 121}
+      - {x: -192, y: 108}
+      - {x: -192, y: 104}
+      - {x: -189, y: 98}
+      - {x: -192, y: 93}
+      - {x: -192, y: 91}
+      - {x: -186, y: 65}
+      - {x: -192, y: 60}
+      - {x: -192, y: 41}
+      - {x: -188, y: 33}
+      - {x: -189, y: 24}
+      - {x: -191, y: 5}
+      - {x: -185, y: 0}
+      - {x: -192, y: -8}
+      - {x: -192, y: -27}
+      - {x: -186, y: -31}
+      - {x: -191, y: -35}
+      - {x: -192, y: -41}
+      - {x: -184, y: -65}
+      - {x: -191, y: -70}
+      - {x: -192, y: -72}
+      - {x: -192, y: -78}
+      - {x: -187, y: -88}
+      - {x: -192, y: -98}
+      - {x: -192, y: -117}
+      - {x: -191, y: -122}
+      - {x: -185, y: -128}
+      - {x: -171, y: -128}
+      - {x: -163, y: -123}
+      - {x: -162, y: -113}
+      - {x: -161, y: -123}
+    - - {x: -69, y: -82}
+      - {x: -64, y: -71}
+      - {x: -70, y: -50}
+      - {x: -68, y: -43}
+      - {x: -68, y: -31}
+      - {x: -63, y: -21}
+      - {x: -63, y: -18}
+      - {x: -67, y: -4}
+      - {x: -66, y: 6}
+      - {x: -63, y: 17}
+      - {x: -63, y: 26}
+      - {x: -67, y: 33}
+      - {x: -71, y: 38}
+      - {x: -63, y: 53}
+      - {x: -63, y: 56}
+      - {x: -67, y: 66}
+      - {x: -69, y: 77}
+      - {x: -65, y: 88}
+      - {x: -65, y: 120}
+      - {x: -70, y: 128}
+      - {x: -93, y: 128}
+      - {x: -96, y: 126}
+      - {x: -96, y: 111}
+      - {x: -94, y: 100}
+      - {x: -96, y: 96}
+      - {x: -96, y: 87}
+      - {x: -91, y: 77}
+      - {x: -88, y: 65}
+      - {x: -94, y: 57}
+      - {x: -93, y: 51}
+      - {x: -90, y: 43}
+      - {x: -94, y: 24}
+      - {x: -92, y: 8}
+      - {x: -88, y: 4}
+      - {x: -92, y: -4}
+      - {x: -96, y: -20}
+      - {x: -96, y: -23}
+      - {x: -94, y: -31}
+      - {x: -95, y: -39}
+      - {x: -91, y: -50}
+      - {x: -88, y: -64}
+      - {x: -93, y: -70}
+      - {x: -92, y: -75}
+      - {x: -90, y: -92}
+      - {x: -94, y: -100}
+      - {x: -94, y: -115}
+      - {x: -92, y: -120}
+      - {x: -85, y: -128}
+      - {x: -74, y: -128}
+      - {x: -66, y: -122}
+      - {x: -66, y: -99}
+      - {x: -71, y: -92}
+    - - {x: -33, y: -66}
+      - {x: -38, y: -61}
+      - {x: -35, y: -37}
+      - {x: -35, y: -29}
+      - {x: -31, y: -22}
+      - {x: -31, y: -19}
+      - {x: -34, y: -14}
+      - {x: -33, y: 18}
+      - {x: -31, y: 24}
+      - {x: -31, y: 27}
+      - {x: -34, y: 33}
+      - {x: -39, y: 39}
+      - {x: -31, y: 52}
+      - {x: -31, y: 56}
+      - {x: -33, y: 66}
+      - {x: -40, y: 67}
+      - {x: -34, y: 83}
+      - {x: -35, y: 99}
+      - {x: -32, y: 104}
+      - {x: -32, y: 108}
+      - {x: -33, y: 122}
+      - {x: -38, y: 128}
+      - {x: -61, y: 128}
+      - {x: -64, y: 124}
+      - {x: -64, y: 117}
+      - {x: -63, y: 113}
+      - {x: -64, y: 104}
+      - {x: -64, y: 84}
+      - {x: -57, y: 71}
+      - {x: -53, y: 66}
+      - {x: -63, y: 58}
+      - {x: -56, y: 34}
+      - {x: -63, y: 26}
+      - {x: -63, y: 7}
+      - {x: -57, y: 4}
+      - {x: -61, y: -3}
+      - {x: -64, y: -23}
+      - {x: -60, y: -30}
+      - {x: -63, y: -34}
+      - {x: -59, y: -49}
+      - {x: -56, y: -63}
+      - {x: -61, y: -68}
+      - {x: -57, y: -93}
+      - {x: -60, y: -96}
+      - {x: -62, y: -121}
+      - {x: -56, y: -128}
+      - {x: -39, y: -128}
+      - {x: -33, y: -121}
+      - {x: -33, y: -98}
+      - {x: -39, y: -93}
+    - - {x: -4, y: -75}
+      - {x: 0, y: -71}
+      - {x: -5, y: -62}
+      - {x: -6, y: -52}
+      - {x: -3, y: -38}
+      - {x: -3, y: -32}
+      - {x: 1, y: -23}
+      - {x: 1, y: -19}
+      - {x: -1, y: -15}
+      - {x: -4, y: 2}
+      - {x: -2, y: 7}
+      - {x: 1, y: 19}
+      - {x: 1, y: 25}
+      - {x: -2, y: 33}
+      - {x: -5, y: 38}
+      - {x: 1, y: 51}
+      - {x: 1, y: 55}
+      - {x: -1, y: 66}
+      - {x: -6, y: 64}
+      - {x: -6, y: 74}
+      - {x: -3, y: 82}
+      - {x: -3, y: 88}
+      - {x: -5, y: 93}
+      - {x: -1, y: 101}
+      - {x: -1, y: 120}
+      - {x: -6, y: 128}
+      - {x: -28, y: 128}
+      - {x: -31, y: 127}
+      - {x: -32, y: 121}
+      - {x: -32, y: 116}
+      - {x: -30, y: 101}
+      - {x: -32, y: 89}
+      - {x: -32, y: 85}
+      - {x: -28, y: 77}
+      - {x: -25, y: 64}
+      - {x: -31, y: 57}
+      - {x: -27, y: 45}
+      - {x: -27, y: 39}
+      - {x: -24, y: 33}
+      - {x: -30, y: 24}
+      - {x: -30, y: -23}
+      - {x: -27, y: -31}
+      - {x: -31, y: -35}
+      - {x: -25, y: -64}
+      - {x: -29, y: -70}
+      - {x: -26, y: -91}
+      - {x: -28, y: -100}
+      - {x: -29, y: -122}
+      - {x: -21, y: -128}
+      - {x: -10, y: -128}
+      - {x: -2, y: -121}
+      - {x: -2, y: -99}
+      - {x: -5, y: -90}
+    - - {x: 28, y: -83}
+      - {x: 30, y: -66}
+      - {x: 24, y: -53}
+      - {x: 29, y: -49}
+      - {x: 30, y: -38}
+      - {x: 30, y: -5}
+      - {x: 27, y: -1}
+      - {x: 23, y: 1}
+      - {x: 23, y: 0}
+      - {x: 25, y: 1}
+      - {x: 29, y: 6}
+      - {x: 30, y: 13}
+      - {x: 30, y: 29}
+      - {x: 25, y: 34}
+      - {x: 28, y: 45}
+      - {x: 30, y: 62}
+      - {x: 30, y: 124}
+      - {x: 28, y: 128}
+      - {x: 8, y: 128}
+      - {x: 6, y: 127}
+      - {x: 2, y: 123}
+      - {x: 2, y: 89}
+      - {x: 7, y: 64}
+      - {x: 2, y: 59}
+      - {x: 2, y: 51}
+      - {x: 6, y: 34}
+      - {x: 2, y: 27}
+      - {x: 2, y: 24}
+      - {x: 4, y: 8}
+      - {x: 2, y: -2}
+      - {x: 2, y: -37}
+      - {x: 5, y: -51}
+      - {x: 9, y: -63}
+      - {x: 3, y: -68}
+      - {x: 2, y: -73}
+      - {x: 2, y: -78}
+      - {x: 6, y: -85}
+      - {x: 2, y: -101}
+      - {x: 4, y: -120}
+      - {x: 9, y: -128}
+      - {x: 28, y: -128}
+      - {x: 30, y: -120}
+      - {x: 30, y: -100}
+      - {x: 24, y: -95}
+    - - {x: 60, y: -74}
+      - {x: 62, y: -65}
+      - {x: 56, y: -61}
+      - {x: 62, y: -48}
+      - {x: 61, y: -29}
+      - {x: 64, y: -24}
+      - {x: 64, y: -12}
+      - {x: 62, y: -5}
+      - {x: 58, y: 3}
+      - {x: 63, y: 7}
+      - {x: 64, y: 22}
+      - {x: 64, y: 28}
+      - {x: 58, y: 34}
+      - {x: 62, y: 63}
+      - {x: 57, y: 67}
+      - {x: 60, y: 78}
+      - {x: 63, y: 91}
+      - {x: 58, y: 99}
+      - {x: 64, y: 102}
+      - {x: 64, y: 107}
+      - {x: 63, y: 124}
+      - {x: 58, y: 128}
+      - {x: 39, y: 128}
+      - {x: 34, y: 124}
+      - {x: 33, y: 118}
+      - {x: 33, y: 104}
+      - {x: 35, y: 99}
+      - {x: 33, y: 95}
+      - {x: 39, y: 66}
+      - {x: 34, y: 58}
+      - {x: 35, y: 48}
+      - {x: 39, y: 35}
+      - {x: 34, y: 27}
+      - {x: 34, y: -4}
+      - {x: 33, y: -15}
+      - {x: 33, y: -26}
+      - {x: 35, y: -43}
+      - {x: 37, y: -49}
+      - {x: 40, y: -63}
+      - {x: 34, y: -70}
+      - {x: 36, y: -80}
+      - {x: 39, y: -90}
+      - {x: 35, y: -101}
+      - {x: 35, y: -107}
+      - {x: 34, y: -121}
+      - {x: 40, y: -128}
+      - {x: 57, y: -128}
+      - {x: 63, y: -121}
+      - {x: 64, y: -100}
+      - {x: 57, y: -92}
+    - - {x: 91, y: -90}
+      - {x: 94, y: -66}
+      - {x: 91, y: -58}
+      - {x: 94, y: -49}
+      - {x: 94, y: -31}
+      - {x: 95, y: -29}
+      - {x: 95, y: -5}
+      - {x: 90, y: 3}
+      - {x: 94, y: 7}
+      - {x: 95, y: 14}
+      - {x: 95, y: 32}
+      - {x: 92, y: 46}
+      - {x: 94, y: 62}
+      - {x: 91, y: 70}
+      - {x: 94, y: 84}
+      - {x: 94, y: 89}
+      - {x: 95, y: 101}
+      - {x: 95, y: 123}
+      - {x: 89, y: 128}
+      - {x: 71, y: 128}
+      - {x: 67, y: 125}
+      - {x: 67, y: 86}
+      - {x: 68, y: 78}
+      - {x: 68, y: 60}
+      - {x: 67, y: 57}
+      - {x: 67, y: 48}
+      - {x: 71, y: 34}
+      - {x: 67, y: 29}
+      - {x: 67, y: -42}
+      - {x: 68, y: -51}
+      - {x: 72, y: -64}
+      - {x: 67, y: -69}
+      - {x: 67, y: -81}
+      - {x: 70, y: -89}
+      - {x: 67, y: -99}
+      - {x: 67, y: -122}
+      - {x: 75, y: -128}
+      - {x: 86, y: -128}
+      - {x: 93, y: -120}
+      - {x: 93, y: -115}
+      - {x: 94, y: -102}
+    - - {x: 182, y: -116}
+      - {x: 150, y: -116}
+      - {x: 145, y: -117}
+      - {x: 121, y: -116}
+      - {x: 107, y: -116}
+      - {x: 103, y: -119}
+      - {x: 103, y: -126}
+      - {x: 113, y: -128}
+      - {x: 168, y: -128}
+      - {x: 184, y: -126}
+      - {x: 184, y: -120}
+    - - {x: -128, y: -104}
+      - {x: -131, y: -101}
+      - {x: -137, y: -94}
+      - {x: -134, y: -88}
+      - {x: -132, y: -82}
+      - {x: -129, y: -69}
+      - {x: -129, y: -44}
+      - {x: -130, y: -38}
+      - {x: -128, y: -27}
+      - {x: -129, y: -23}
+      - {x: -126, y: -27}
+      - {x: -121, y: -32}
+      - {x: -119, y: -32}
+      - {x: -118, y: -31}
+      - {x: -119, y: -30}
+      - {x: -122, y: -31}
+      - {x: -129, y: -37}
+      - {x: -126, y: -51}
+      - {x: -124, y: -59}
+      - {x: -121, y: -62}
+      - {x: -121, y: -61}
+      - {x: -122, y: -62}
+      - {x: -122, y: -64}
+      - {x: -128, y: -71}
+      - {x: -129, y: -76}
+      - {x: -129, y: -77}
+      - {x: -126, y: -102}
+      - {x: -129, y: -105}
+      - {x: -129, y: -106}
+      - {x: -128, y: -107}
+    - - {x: -160, y: -103}
+      - {x: -163, y: -100}
+      - {x: -162, y: -73}
+      - {x: -162, y: -70}
+      - {x: -163, y: -67}
+      - {x: -168, y: -63}
+      - {x: -168, y: -64}
+      - {x: -167, y: -63}
+      - {x: -167, y: -60}
+      - {x: -160, y: -43}
+      - {x: -159, y: -41}
+      - {x: -161, y: -38}
+      - {x: -164, y: -35}
+      - {x: -167, y: -34}
+      - {x: -171, y: -31}
+      - {x: -170, y: -32}
+      - {x: -168, y: -32}
+      - {x: -162, y: -28}
+      - {x: -155, y: -31}
+      - {x: -154, y: -31}
+      - {x: -154, y: -30}
+      - {x: -159, y: -34}
+      - {x: -160, y: -37}
+      - {x: -160, y: -40}
+      - {x: -157, y: -45}
+      - {x: -161, y: -75}
+      - {x: -161, y: -76}
+      - {x: -154, y: -92}
+      - {x: -151, y: -95}
+      - {x: -151, y: -94}
+      - {x: -157, y: -99}
+      - {x: -158, y: -101}
+      - {x: -161, y: -104}
+      - {x: -161, y: -105}
+      - {x: -160, y: -106}
+    - - {x: 132, y: -98}
+      - {x: 146, y: -98}
+      - {x: 146, y: -91}
+      - {x: 138, y: -83}
+      - {x: 127, y: -83}
+      - {x: 122, y: -86}
+      - {x: 122, y: -97}
+      - {x: 126, y: -98}
+      - {x: 129, y: -98}
+      - {x: 131, y: -95}
+      - {x: 131, y: -93}
+      - {x: 131, y: -96}
+    - - {x: 148, y: -83}
+      - {x: 146, y: -86}
+      - {x: 146, y: -97}
+      - {x: 149, y: -98}
+      - {x: 156, y: -98}
+      - {x: 157, y: -95}
+      - {x: 157, y: -86}
+      - {x: 154, y: -83}
+    - - {x: 183, y: -68}
+      - {x: 154, y: -66}
+      - {x: 151, y: -65}
+      - {x: 148, y: -65}
+      - {x: 146, y: -68}
+      - {x: 134, y: -66}
+      - {x: 131, y: -65}
+      - {x: 127, y: -65}
+      - {x: 126, y: -67}
+      - {x: 113, y: -65}
+      - {x: 101, y: -65}
+      - {x: 99, y: -68}
+      - {x: 98, y: -70}
+      - {x: 98, y: -78}
+      - {x: 99, y: -80}
+      - {x: 107, y: -79}
+      - {x: 159, y: -79}
+      - {x: 161, y: -83}
+      - {x: 180, y: -83}
+      - {x: 185, y: -75}
+      - {x: 185, y: -70}
+    - - {x: 130, y: -46}
+      - {x: 130, y: -60}
+      - {x: 136, y: -64}
+      - {x: 145, y: -64}
+      - {x: 147, y: -63}
+      - {x: 152, y: -59}
+      - {x: 152, y: -49}
+      - {x: 141, y: -46}
+    - - {x: 167, y: -43}
+      - {x: 167, y: -31}
+      - {x: 152, y: -28}
+      - {x: 141, y: -28}
+      - {x: 138, y: -30}
+      - {x: 130, y: -28}
+      - {x: 115, y: -28}
+      - {x: 113, y: -34}
+      - {x: 113, y: -43}
+      - {x: 115, y: -44}
+      - {x: 125, y: -47}
+      - {x: 129, y: -47}
+      - {x: 136, y: -43}
+      - {x: 137, y: -41}
+      - {x: 140, y: -45}
+    - - {x: 117, y: -11}
+      - {x: 116, y: -12}
+      - {x: 116, y: -26}
+      - {x: 160, y: -26}
+      - {x: 164, y: -21}
+      - {x: 164, y: -11}
+    - - {x: 158, y: 56}
+      - {x: 157, y: 69}
+      - {x: 159, y: 81}
+      - {x: 156, y: 91}
+      - {x: 160, y: 102}
+      - {x: 160, y: 119}
+      - {x: 157, y: 128}
+      - {x: 130, y: 128}
+      - {x: 129, y: 120}
+      - {x: 129, y: 102}
+      - {x: 131, y: 101}
+      - {x: 130, y: 87}
+      - {x: 134, y: 72}
+      - {x: 129, y: 50}
+      - {x: 129, y: 47}
+      - {x: 132, y: 30}
+      - {x: 129, y: 21}
+      - {x: 130, y: 4}
+      - {x: 138, y: -3}
+      - {x: 150, y: -3}
+      - {x: 155, y: 1}
+      - {x: 158, y: 5}
+      - {x: 160, y: 22}
+    - - {x: 126, y: 58}
+      - {x: 126, y: 69}
+      - {x: 129, y: 75}
+      - {x: 129, y: 83}
+      - {x: 124, y: 96}
+      - {x: 129, y: 103}
+      - {x: 129, y: 116}
+      - {x: 123, y: 128}
+      - {x: 102, y: 128}
+      - {x: 98, y: 121}
+      - {x: 98, y: 86}
+      - {x: 101, y: 71}
+      - {x: 96, y: 57}
+      - {x: 96, y: 39}
+      - {x: 100, y: 32}
+      - {x: 97, y: 21}
+      - {x: 99, y: 5}
+      - {x: 105, y: -2}
+      - {x: 119, y: -2}
+      - {x: 124, y: 0}
+      - {x: 128, y: 12}
+      - {x: 127, y: 24}
+    - - {x: 191, y: 24}
+      - {x: 189, y: 36}
+      - {x: 189, y: 58}
+      - {x: 191, y: 81}
+      - {x: 187, y: 93}
+      - {x: 191, y: 104}
+      - {x: 191, y: 120}
+      - {x: 187, y: 128}
+      - {x: 167, y: 128}
+      - {x: 164, y: 126}
+      - {x: 160, y: 110}
+      - {x: 160, y: 99}
+      - {x: 161, y: 93}
+      - {x: 161, y: 68}
+      - {x: 162, y: 44}
+      - {x: 164, y: 29}
+      - {x: 160, y: 18}
+      - {x: 163, y: 3}
+      - {x: 169, y: -2}
+      - {x: 185, y: -2}
+      - {x: 190, y: 5}
+      - {x: 191, y: 14}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
